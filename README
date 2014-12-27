@@ -1,0 +1,23 @@
+Merge branch 'tb_tddl-3.3.x' of https://github.com/alibaba/tb_tddl.git
+
+Changes:
+Maven code refactoring to make it can be successfully compiled and easier to understand.
+Remove the dependence on internal resources.
+
+
+Maven References:
+
+    <repositories>
+        <repository>
+            <id>tddl-mvn-github</id>
+            <url>https://raw.githubusercontent.com/lpn520/tddl/master/mvn-repository</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.taobao</groupId>
+            <artifactId>tddl</artifactId>
+            <version>3.3.x</version>
+        </dependency>
+    </dependencies>
