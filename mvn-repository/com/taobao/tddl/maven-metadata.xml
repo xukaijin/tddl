@@ -3,10 +3,10 @@
   <groupId>com.taobao</groupId>
   <artifactId>tddl</artifactId>
   <versioning>
-    <release>5.1.16</release>
+    <release>5.1.16.lpn</release>
     <versions>
-      <version>5.1.16</version>
+      <version>5.1.16.lpn</version>
     </versions>
-    <lastUpdated>20150108144202</lastUpdated>
+    <lastUpdated>20150108153943</lastUpdated>
   </versioning>
 </metadata>

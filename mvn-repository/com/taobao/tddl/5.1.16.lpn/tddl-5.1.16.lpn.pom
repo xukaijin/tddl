@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.taobao</groupId>
     <artifactId>tddl</artifactId>
-    <version>5.1.16</version>
+    <version>5.1.16.lpn</version>
 
     <url>https://github.com/lpn520/tddl.git</url>
     <developers>
