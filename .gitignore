@@ -6,5 +6,7 @@
 
 
 /tddl
-/tddl-manager
 /tddl-server
+/tddl-manager
+/diamond-client
+/diamond-server
